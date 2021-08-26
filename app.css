@@ -1,0 +1,21 @@
+* {
+	list-style: none;
+}
+#resume {
+	width: 700px;
+}
+#resume-header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: lightblue;
+	border-radius: 10px;
+	height: auto;
+}
+#resume-left {
+	float: left;
+}
+#resume-right {
+	float: right;
+	padding-top: 85px;
+}
